@@ -6,7 +6,9 @@ Frontend Developer
 
 I am a frontend developer, trying my hand at backend. Also, as a teenager, I was interested in creating a game on Construct 1/2 and I know pixel art quite well. I also have extensive experience in Photoshop and video editing programs. I Love Computers :)
 
+------------------
 * 🌍  I'm based in Moldova, Bender (Tigin)
+------------------
 
 <a href="https://www.github.com/ZRostislav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ZRostislav?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
