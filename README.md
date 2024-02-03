@@ -8,8 +8,8 @@ I am a frontend developer, trying my hand at backend. Also, as a teenager, I was
 
 * 🌍  I'm based in Moldova, Bender (Tigin)
 
+------------------
 <a href="https://www.github.com/ZRostislav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ZRostislav?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
-
 ------------------
 
 ### Skills
@@ -22,6 +22,7 @@ Programming Languages
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 
 You can't do without them
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
