@@ -9,11 +9,10 @@ I am a frontend developer, trying my hand at backend. Also, as a teenager, I was
 * 🌍  I'm based in Moldova, Bender (Tigin)
 ------------------
 
-<a href="https://www.github.com/ZRostislav" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ZRostislav?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
+<a href="https://www.github.com/ZRostislav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ZRostislav?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
 ------------------
 
-### Skills
+### ![]Skills
 
 
 <p align="left">
