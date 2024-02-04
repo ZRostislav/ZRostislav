@@ -59,5 +59,3 @@ I am a frontend developer, trying my hand at backend. Also, as a teenager, I was
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zrostislav)
