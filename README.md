@@ -8,7 +8,7 @@ I am a frontend developer, trying my hand at backend. Also, as a teenager, I was
 
 - 🎓 I am studying for the specialty "Information Systems and Programming"
 
-- 📟 If you want to contact me, the best solution is Telegram: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rostislav_zaluzhets)
+- 📟 If you want to contact me, the best solution is Telegram: [![Telegram Badge](https://img.shields.io/badge/-rostislav_zaluzhets-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rostislav_zaluzhets)
 
 ---
 
