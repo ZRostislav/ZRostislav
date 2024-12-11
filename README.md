@@ -10,6 +10,8 @@ I am a frontend developer, trying my hand at backend. Also, as a teenager, I was
 
 - 📟 If you want to contact me, the best solution is Telegram: [![Telegram Badge](https://img.shields.io/badge/-rostislav_zaluzhets-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rostislav_zaluzhets)
 
+- 🌍 My knowledge of the languages Russian and Ukrainian
+
 ---
 
 ### 🛎️ Social network:
@@ -34,7 +36,7 @@ I am a frontend developer, trying my hand at backend. Also, as a teenager, I was
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp -->
